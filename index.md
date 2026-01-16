@@ -115,7 +115,6 @@ Led the development of LUNA’s intelligence layer, focusing on the intersection
 
 #### **1. Data‑Driven Behavioral Coaching**
 
-* **Open Banking Integration:** Leveraged Open Banking APIs to ingest and analyze live transactional data, enabling coaching based on **actual user behavior** rather than self‑reported inputs.
 * **Contextual Intelligence:** Combined user profiles with financial statistics from the data warehouse to derive financial‑health indicators and generate actionable, personalized coaching insights.
 
 #### **2. Intelligent Recommendation Orchestration**
@@ -132,10 +131,8 @@ Led the development of LUNA’s intelligence layer, focusing on the intersection
 
 ### 🛠️ **Tech Stack**
 
-* **AI / LLM:** GPT‑4, custom LLM orchestration
-* **Fintech:** Open Banking APIs, transactional data analysis
+* **AI / LLM:** Gemini, custom LLM orchestration
 * **Backend:** FastAPI, Python
-* **Frontend (Admin):** React.js
 * **Data:** Data Warehouse (e.g., BigQuery / Snowflake / Redshift), SQL, MongoDB
 * **Architecture:** Event‑driven recommendations, behavioral nudging logic
 
